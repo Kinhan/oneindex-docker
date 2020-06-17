@@ -1,5 +1,7 @@
 # Docker-oneindex
 
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 [![CircleCI](https://circleci.com/gh/TimeBye/oneindex.svg?style=svg)](https://circleci.com/gh/TimeBye/oneindex)
 [![Docker Pulls](https://img.shields.io/docker/pulls/setzero/oneindex.svg)](https://hub.docker.com/r/setzero/oneindex)
 [![](https://images.microbadger.com/badges/image/setzero/oneindex.svg)](https://microbadger.com/images/setzero/oneindex "Get your own image badge on microbadger.com")
